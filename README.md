@@ -1,4 +1,4 @@
-<img src="/icon.ico" height="70px" width="70px" class="in" style=".in{display:inline;}"><h1 class="in" style=".in{display:inline;}">Tynxen</h1> 
+<a href="https://github.com/Tynxen/Info"><img src="/icon.ico" height="70px" width="70px" class="in" style=".in{display:inline;}"></a><h1 class="in" style=".in{display:inline;}">Tynxen</h1> 
 <br>
 <p>Official Website for Tynxen at https://tynxen.netlify.app</p>
 
